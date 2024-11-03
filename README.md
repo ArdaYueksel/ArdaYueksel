@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm Arda Yüksel!
 
-<!--
-**ArdaYueksel/ArdaYueksel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With over 3 years of experience in **Natural Language Processing (NLP)**, **Applied AI**, and **Machine Learning**, I focus on advancing AI's potential while ensuring robust and safe implementations. Currently, I work as an **AI Engineer** at **Neuland AI**, specializing in **Retrieval-Augmented Generation (RAG)** and **conversational agents**, bringing AI-powered interactions to life.
 
-Here are some ideas to get you started:
+I started my AI and NLP journey as an undergraduate researcher in KOÇLAB at Bilkent University. During my years in AI, I developed word embedding models, created benchmarks for LLM, and fine-tuned transformers and vision models for specific tasks. In addition to this, I have been previously affiliated with Fraunhofer IKS, where I designed and tested **safe ML systems** to drive trustworthy AI solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Publications
+Check out my research work on [Google Scholar](https://scholar.google.com/citations?user=ygOn-MQAAAAJ&hl=en) for publications on NLP, applied AI, and safe ML systems.
+  
+## 🛠️ Tech Stack
+
+- **Languages:** Python, Java, C++, Matlab, TeX, Shell
+- **Frameworks & Libraries:** Git, Pytorch, FastAPI, Azure, Docker, LlamaIndex, HuggingFace, Phoenix
+
+## 📚 Areas of Interest
+
+- **Machine Learning & AI:** I enjoy exploring cutting-edge machine learning advancements from model deployment to fine-tuning algorithms.
+- **Data Engineering:** I’m delving into database management and optimization for efficient data handling. 
+- **Software Development:** Continuously learning and implementing best practices for scalable, maintainable code.
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/arda-y%C3%BCksel/)  
+
+Feel free to explore my repositories, my dataset (TurkishMMLU), open issues, or reach out if you're interested in collaborating or discussing anything related to software development, machine learning, or NLP.
+
+Happy coding! 👨‍💻🚀
