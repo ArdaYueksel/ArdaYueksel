@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Arda Yüksel!
 
-With over 3 years of experience in **Natural Language Processing (NLP)**, **Applied AI**, and **Machine Learning**, I focus on advancing AI's potential while ensuring robust and safe implementations. Currently, I work as an **AI Engineer** at **Neuland AI**, specializing in **Retrieval-Augmented Generation (RAG)** and **conversational agents**, bringing AI-powered interactions to life.
+With over 3 years of experience in **Natural Language Processing (NLP)**, **Applied AI**, and **Machine Learning**, I focus on advancing AI's potential while ensuring robust and safe implementations. Currently, I am a **PhD Candidate** at **TU Darmstadt**, specializing in **Multimodal Fact Checking** and **Large Language Models (LLM)**, bringing AI-powered interactions to life. I am affiliated with **UKP Lab** and **TrustHLT**.
 
 I started my AI and NLP journey as an undergraduate researcher in KOÇLAB at Bilkent University. During my years in AI, I developed word embedding models, created benchmarks for LLM, and fine-tuned transformers and vision models for specific tasks. In addition to this, I have been previously affiliated with Fraunhofer IKS, where I designed and tested **safe ML systems** to drive trustworthy AI solutions.
 
